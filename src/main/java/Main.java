@@ -1,7 +1,4 @@
-
-
 import org.jetbrains.annotations.NotNull;
-
 import java.util.LinkedList;
 
 public class Main {
